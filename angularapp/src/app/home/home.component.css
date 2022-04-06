@@ -1,0 +1,34 @@
+.navbar{
+    background-color: #4D96FF;
+    font-size: large;
+    width:100%;
+    height: 60px;
+  }
+h1{
+    font-size: x-large;
+    color: rgb(246, 246, 248);
+    padding-top: 0.5cm;
+    margin-left: 1cm;
+  } 
+  #t{
+      margin-left: 800px;
+  }
+  .btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: #eee;}
+  #grid1{
+      height:200px;
+      margin-top:-2.5%;
+      width:10%;
+      display:flex;
+      flex-direction:column;
+      background-color: rgb(236, 236, 22);
+  }
