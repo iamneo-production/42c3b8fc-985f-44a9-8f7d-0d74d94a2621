@@ -1,0 +1,62 @@
+
+.navbar{
+    background-color: rgb(24, 174, 243);
+    color: white;
+    font-weight: 800;
+    height: 90px;
+    
+
+}
+.navbar-brand{
+    margin-left: 25px;
+    font-size: 30px;
+}
+.container{
+    margin-top: 30px;
+    width:1200px;
+    background-color: rgb(226, 224, 221);
+    /* background-color: beige; */
+}
+.signup{
+    font-size: 35px;
+    text-align: center;
+    font-weight: 700;
+    color: rgba(33, 84, 114, 0.822);
+}
+.form-group{
+    margin-top: 20px;
+   
+    margin-left: 10px;
+    
+}
+.form-control{
+    margin-top: 25px;
+    margin-left: 120px;
+    width: 900px;
+    height: 50px ;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    border-radius: 0%;
+    
+    
+}
+.alreadyuser{
+    margin-top: 20px;
+    margin-left: 850px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.link2{
+    text-decoration: none;
+}
+.btn {
+    background-color: rgb(24, 174, 243);
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 500px;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 0%;
+}
